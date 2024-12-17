@@ -90,16 +90,16 @@
 
 
 - 몬스터의 전리품이 정상적으로 드랍되지 않아, 몬스터가 오브젝트 풀에 반환이 안되는 현상
-![image](https://github.com/user-attachments/assets/54f88ada-d0b0-4423-88a8-380b83709b30)
+![image](https://github.com/user-attachments/assets/92615ed5-e2bf-4b28-b87d-02d9bcd31450)
 
 
 - 보스의 공격이 플레이어에게 데미지를 입히지 못했던 현상
-![image](https://github.com/user-attachments/assets/7ccb6589-b319-4d42-a2e8-4907055e1952)
+![image](https://github.com/user-attachments/assets/1a705315-921d-47e2-9baf-bb70b30403b4)
+
 
 - 기존 Save / Load 기능이 WebGL 환경에서 동작하지 않는 현상
-![image](https://github.com/user-attachments/assets/f8ccc5e4-330f-4f76-9aaa-52c163a342c1)
-![image](https://github.com/user-attachments/assets/d57827ec-dcb9-4913-89d8-31ebc71ffb8f)
-
+![image](https://github.com/user-attachments/assets/b1eff55e-c4bf-4ee4-9145-c6bdc1a395de)
+![image](https://github.com/user-attachments/assets/0d2814ef-1df4-45b1-86d3-abf92d57b731)
 
 
 
