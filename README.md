@@ -33,7 +33,7 @@
   - https://seeun0815.itch.io/barbarians-smash-everything
 
 - 🕹️ 조작법
-  <img src = "https://github.com/user-attachments/assets/5a023717-6535-408b-8610-d2e4205c171e">
+![image](https://github.com/user-attachments/assets/9fbb53fe-d9e6-4fe1-8d72-495f8fbb5e32)
 
   - WASD : 플레이어를 상하좌우 방향으로 이동시킵니다.
   - Shift + WASD : 플레이어는 shift 키를 누른 상태로 이동하여 질주할 수 있습니다. 
@@ -53,7 +53,7 @@
 - 웹툰 [게임 속 바바리안으로 살아남기]를 읽고, 작중 묘사되는 것과 같은 하드코어 로그라이크 RPG를 만들어보고 싶었습니다.
 
 ## 와이어프레임
-![image](https://github.com/user-attachments/assets/56fab4a0-ab87-41f0-a55d-737cd1b31ca1)
+![image](https://github.com/user-attachments/assets/f81eed1b-6151-4aec-96a9-c1bf493f0b38)
 
 
 ## 💜 주요기능
@@ -61,24 +61,24 @@
 - Physics2D와 NavMesh2D를 활용한 캐릭터 추적 시스템
 
 
-     ![navmesh](https://github.com/user-attachments/assets/4ba84bcd-1b27-4443-92b0-29616b627829)
+     ![image](https://github.com/user-attachments/assets/a7e0db5b-4422-4fdb-af43-ed07a9ee6def)
 
 - FSM 패턴을 이용한 캐릭터(Player / NPC / Monster) 디자인
 
-     ![image](https://github.com/user-attachments/assets/71464a48-7e87-4366-9073-475e7506e0e1)
+     ![image](https://github.com/user-attachments/assets/b247cedd-055f-41df-ac01-b9f31ef23df0)
 
 
 
 - CSV, Json 데이터 사용
 
-     ![image](https://github.com/user-attachments/assets/8ddffdcf-e955-4283-94da-1662fd744a50)
+     ![image](https://github.com/user-attachments/assets/509d9360-c8f6-47f1-84e6-7b03079fe4c3)
 
 
 
 
 ## ⏲️ 개발기간
 - 2024.06.27(목) ~ 2024.08.20(화)
- ![image](https://github.com/user-attachments/assets/87bec44d-163c-44a2-8b2b-fdeb7b55e0c4)
+ ![image](https://github.com/user-attachments/assets/77f4f9c2-d7c7-46a5-b25c-a6fd4f99c7cb)
 
 
 
@@ -86,7 +86,7 @@
 
 ## Trouble Shooting
 - 애니메이션 기능 개선
-![image](https://github.com/user-attachments/assets/ba71e22d-e63e-44ba-903b-69a3391e0d4c)
+![image](https://github.com/user-attachments/assets/af02afb8-7b7f-4c58-a7e5-b1e3cf9e0755)
 
 
 - 몬스터의 전리품이 정상적으로 드랍되지 않아, 몬스터가 오브젝트 풀에 반환이 안되는 현상
